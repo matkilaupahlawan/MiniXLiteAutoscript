@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <h2 align="center">
 <hr>
-🚀Mini XLite Autoscript By PAKYAVPN 🚀
+🚀Mini XLite Autoscript By mia 🚀
 <h2><hr>
   
 <h2 align="center"> ♦️Supported Linux Distribution♦️</h2>
